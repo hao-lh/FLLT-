@@ -30,7 +30,8 @@ Result of the algorithm on synthetic image can be seen as follows, with merging 
 ![synthetic_result](https://cloud.githubusercontent.com/assets/14138581/13603181/4fffbaa8-e576-11e5-8350-ddac5fbcc021.png)
 
 Part of algorithm's performance on [MIT300 saliency detection dataset](http://saliency.mit.edu), ranging from people, animals, architecture, artificial objects to natural scene, with merging conditions from loose to strict.
-![scene_result](https://cloud.githubusercontent.com/assets/14138581/13729089/7010d12a-e967-11e5-9e03-ff7b773b0772.png)
+![scene_result](https://cloud.githubusercontent.com/assets/14138581/13899167/b271dfa0-ee21-11e5-81ef-14a6537cd8b9.png)
+
 
 * first column is original image.
 * second column is MB+ saliency detection result on original image.
